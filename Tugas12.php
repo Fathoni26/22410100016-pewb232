@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <link rel= "stylesheet" href="Tugas1css.css">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,6 +42,8 @@
         </div>
         <div class="btn-group">
         <td><a href="Tugas1.php"><button type="button" class="btn-update">Update</button>
+        <span class="fa-solid fa-file"></span>
+        </button>
         <td><a href="Tugas1.php"><button type="button" class="btn-delete">Delete</button>
         <td><a href="Tugas1.php"><button type="button" class="btn-cancel">Cancel</button>
         </div>
