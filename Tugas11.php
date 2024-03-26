@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel= "stylesheet" href="Tugas1css.css">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,44 +9,8 @@
         body {
             font-family: Arial, sans-serif;
         }
-        .container {
-            max-width: 400px;
-            padding: 20px;
-        }
         .form-group {
             margin-bottom: 15px;
-        }
-        .form-group label {
-            display: inline-block;
-            width: 100px;
-        }
-        .form-group input {
-            width: calc(100% - 110px);
-            padding: 8px;
-            border-radius: 4px;
-        }
-        .btn-group {
-            text-align: center;
-        }
-        .btn-group button {
-            padding: 10px 20px;
-            margin-right: 10px;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .btn-save {
-            background-color: #f2f2f2;
-            color: black;
-        }
-        .btn-save:hover {
-            background-color: #f2f2f2;
-        }
-        .btn-cancel {
-            background-color: #f2f2f2;
-            color: black
-        }
-        .btn-cancel:hover {
-            background-color: #f2f2f2;
         }
     </style>
 </head>
