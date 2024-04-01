@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <link rel= "stylesheet" href="Tugas1css.css">
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <head>
+<link rel= "stylesheet" href="Tugas1css.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Input Barang</title>
@@ -41,11 +41,9 @@
             <input type="number" id="harga_jual" name="harga_jual" required>
         </div>
         <div class="btn-group">
-        <td><a href="Tugas1.php"><button type="button" class="btn-update">Update</button>
-        <span class="fa-solid fa-file"></span>
-        </button>
-        <td><a href="Tugas1.php"><button type="button" class="btn-delete">Delete</button>
-        <td><a href="Tugas1.php"><button type="button" class="btn-cancel">Cancel</button>
+        <td><a href="Tugas1.php"><button type="button" class="btn-update"><i class="fas fa-edit"></i>Update</button>
+        <td><a href="Tugas1.php"><button type="button" class="btn-delete"><i class="fas fa-trash"></i>Delete</button>
+        <td><a href="Tugas1.php"><button type="button" class="btn-cancel"><i class="fas fa-times"></i>Cancel</button>
         </div>
     </form>
 </div>

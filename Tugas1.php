@@ -1,7 +1,10 @@
 <html>
 <head>
 <link rel= "stylesheet" href="Tugas1css.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-<a href="Tugas11.php" target="_self"><td><input type="button" name="+" value="+"></td></a>
+<a href="Tugas11.php" target="_self"><td><i class="fa fa-edit" style="font-size:20px;color:brown;"></i> 
+             Edit
+            </button>
+        </td>
     <title>HTMLku</title>
     <style>
         table {
@@ -36,7 +39,10 @@
         <td>200</td>
         <td>350</td>
         <td><a href="Tugas12.php">
-        <i class="fa fa-file" style="font-size:20px;color:brown;"></i>
+        <i class="fa fa-edit" style="font-size:20px;color:brown;"></i> 
+                Update
+            </button>
+        </td>
     </tr>
     <tr>
         <td>M02</td>
@@ -45,7 +51,10 @@
         <td>300</td>
         <td>450</td>
         <td><a href="Tugas12.php">
-        <i class="fa fa-file" style="font-size:20px;color:brown;"></i>
+        <i class="fa fa-edit" style="font-size:20px;color:brown;"></i> 
+                Update
+            </button>
+        </td>
     </tr>
     <tr>
         <td>M03</td>
@@ -54,7 +63,10 @@
         <td>400</td>
         <td>550</td>
         <td><a href="Tugas12.php">
-        <i class="fa fa-file" style="font-size:20px;color:brown;"></i>
+        <i class="fa fa-edit" style="font-size:20px;color:brown;"></i> 
+                Update
+            </button>
+        </td>
     </tr>
 </table>
 
